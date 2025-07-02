@@ -36,7 +36,7 @@ Repositório de Projetos -  Disciplina Sistemas Distribuídos - contém trabalho
 
 ```
 
-### 🌐 3. Comunicação Multcast
+### 🌐 3. Comunicação Multicast
 
 **Descrição**: Projeto de um Algoritmo de aula online ao vivo - UDP.
 
