@@ -1,0 +1,5 @@
+h1<Oficina dos Filósofos>h1
+
+Códigos Cliente e Servidor em python, com base no Dining Philosophers Problem. 
+(concorrência, sincronização e deadlocks)
+
