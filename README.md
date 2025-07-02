@@ -22,7 +22,7 @@ Repositório de Projetos -  Disciplina Sistemas Distribuídos - contém trabalho
 📁 Philosophers/
 └── 🐍 Philosophers.py
 
-**Descrição**: Implementação do Algoritmo com baste no problema do Jantar dos Filósofos em sistemas distribuídos.
+**Descrição**: Implementação do Algoritmo com base no problema do Jantar dos Filósofos em sistemas distribuídos.
 
 ```
 ### 📝 2. Apresentação Artigo
