@@ -1,4 +1,4 @@
-# Andre_oliveira
+# Andre_Oliveira
 Repositório de Projetos - Ciências da Computação - Disciplina Sistemas Distribuídos
 
 🚀 Sobre o Repositório
